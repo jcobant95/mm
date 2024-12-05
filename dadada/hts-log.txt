@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 05 Dec 2024 02:43:13 at https://xaitokens.app/presale/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://xaitokens.app/presale/ -O1 "C:\My Web Sites\dadada" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:43:17	Error: 	"Forbidden" (403) at link https://kit.fontawesome.com/86b127aff6.js (from https://xaitokens.app/presale/)
+02:43:23	Error: 	"Not Found" (404) at link https://xaitokens.app/presale/swap/assets/images/logo/favicon.png (from https://xaitokens.app/presale/swap/)
+02:43:23	Error: 	"Error when decompressing" (-1) at link https://xaitokens.app/presale/swap/âhttps://www.smartsupp.comâ (from https://xaitokens.app/presale/swap/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 38 links scanned, 34 files written (7512263 bytes overall) [7291269 bytes received at 729126 bytes/sec], 349784 bytes transferred using HTTP compression in 17 files, ratio 25%, 5.4 requests per connection
+(3 errors, 0 warnings, 0 messages)
